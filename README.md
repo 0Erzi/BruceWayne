@@ -21,13 +21,4 @@ Customize this template to make it your own. Remember to make your layout respon
 
 > ⚡️ **Tip:** [Set up Google Analytics](https://www.w3schools.com/howto/howto_google_analytics.asp) to get valuable insights about your space and visitors. 
 
-
-### ⛑ Need support?
-[Join our Discord community](https://discord.gg/6Z7UaRbUQM) and ask questions in the **#spaces-general** channel.
-
-
-### 🚀 Upgrade to Pro
-[Upgrade your account](https://billing.w3schools.com/products/spaces) to boost your space and take your projects to the next level; more requests, more storage and more power for up to 10 spaces.
-
-
-Happy learning!
+Here is a preview of my website : https://thebrucewayne.w3spaces.com
